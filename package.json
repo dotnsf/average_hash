@@ -1,0 +1,24 @@
+{
+    "name": "average_hash",
+    "version": "0.0.1",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "basic-auth-connect": "1.0.x",
+        "body-parser": "^1.18.3",
+        "canvas": "^1.6.11",
+        "cfenv": "~1.0.0",
+        "cheerio-httpcli": "^0.7.3",
+        "cloudant": "1.7.x",
+        "easyimage": "^3.1.0",
+        "ejs": "2.5.5",
+        "express": "4.1.x",
+        "fs": "~0.0.1",
+        "multer": "1.1.x"
+    },
+    "repository": {},
+    "engines": {
+        "node": "4.x"
+    }
+}

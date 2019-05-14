@@ -1,0 +1,6 @@
+node_modules/
+package-lock.json
+settings.js.*
+composer-logs/
+public/imgs/*.png
+npm-debug.log
